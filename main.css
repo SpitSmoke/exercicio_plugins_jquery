@@ -1,0 +1,14 @@
+.formulario {
+    display: flex;
+    flex-direction: column;
+}
+
+
+label {
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 8px;
+    margin-bottom: 10px;
+}
